@@ -7,6 +7,7 @@ class StickyHeader {
     this.pageSections = document.querySelectorAll(".page-section");
     this.browserHeight = window.innerHeight;
     this.previousScrollY = window.scrollY;
+    this.largeHero = document.querySelector(".large-hero");
     this.events();
   }
 
