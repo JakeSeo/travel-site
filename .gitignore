@@ -10,6 +10,7 @@
 *~
 *.sass-cache
 node_modules/
+docs/
 .tmp/
 
 # OS or Editor folders
@@ -27,5 +28,3 @@ nbproject
 .komodotools
 _notes
 dwsync.xml
-
-bundled.js
